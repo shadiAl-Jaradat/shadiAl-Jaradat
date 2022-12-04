@@ -8,4 +8,4 @@
 - 🔭 I’m currently working with two of my colleagues on a recipe organizer app named Recipe Jar as my graduation project
 - 🌱 I’m currently learning Python DJango
 - 💬 Ask me about topics about photography,cooking,movies and coffe
-- 📫 How to reach me: Email - jaradatshadi1@gmail.com | Twitter - [@ShadiAljaradat](https://twitter.com/ShadiAljaradat?t=olqOi25Tvlq-Gy1j84xEKA&s=08) | LinkedIn - [@ShadiAljaradat] (https://www.linkedin.com/in/shadi-al-jaradat)
+- 📫 How to reach me: Email - jaradatshadi1@gmail.com | Twitter - [@ShadiAljaradat](https://twitter.com/ShadiAljaradat?t=olqOi25Tvlq-Gy1j84xEKA&s=08)
