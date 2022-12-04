@@ -3,7 +3,7 @@
 
 <br />
 
-- 🔭 I’m currently working in KayanHR as a Flutter developer
+- 🔭 I’m currently working at KayanHR as a Flutter developer
 - 📚 I’m a Senior Computer Science student (Expected graduation: June 2023)
 - 🔭 I’m currently working with two of my colleagues on a recipe organizer app named Recipe Jar as my graduation project
 - 🌱 I’m currently learning Python DJango
