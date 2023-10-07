@@ -4,9 +4,10 @@
 
 <br />
 
-- 🔭 I’m currently working at KayanHR as a Flutter developer [@KayanHRApp](https://apps.apple.com/jo/app/kayanhr/id1539212937?platform=iphone)
-- 📚 I’m a Senior Computer Science student (Expected graduation: June 2023)
-- 🔭 I’m currently working with two of my colleagues on a recipe organizer app named Recipe Jar as my graduation project
-- 🌱 I’m currently learning Python DJango
-- 💬 Ask me about topics about photography,cooking,movies and coffee
+
+- 🔭 I’m currently working at Nowa as a Flutter developer [@Nowa]([https://apps.apple.com/jo/app/kayanhr/id1539212937?platform=iphone](https://www.nowa.dev/))
+- 🔭 I worked at KayanHR as a Flutter developer [@KayanHRApp](https://apps.apple.com/jo/app/kayanhr/id1539212937?platform=iphone)
+- 📚 I studied Computer Science at PSUT and graduated in June 2023
+- 🍎 I’m currently learning Swift UIkit 
+- 💬 Ask me about topics about photography, cooking, movies, and coffee
 - 📫 How to reach me: Email - jaradatshadi1@gmail.com | Twitter - [@ShadiAljaradat](https://twitter.com/ShadiAljaradat?t=olqOi25Tvlq-Gy1j84xEKA&s=08)
