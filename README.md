@@ -7,6 +7,6 @@
 - 🔭 I’m currently working at Nowa as a Flutter developer [@Nowa](https://www.nowa.dev/) Oct 2023 - Present
 - 🔭 I worked at KayanHR as a Flutter developer [@KayanHRApp](https://apps.apple.com/jo/app/kayanhr/id1539212937?platform=iphone) Feb 2022 - Oct 2023
 - 📚 I studied Computer Science at PSUT and graduated in June 2023
-- 🍎 I’m currently Learn more in Flutter and learning Swift UI 
+- 🍎 I’m currently learning more in Flutter and learning Swift UI 
 - 💬 Ask me about topics about photography, cooking, movies, and coffee
 - 📫 How to reach me: Email - jaradatshadi1@gmail.com | Twitter - [@ShadiAljaradat](https://twitter.com/ShadiAljaradat?t=olqOi25Tvlq-Gy1j84xEKA&s=08)
