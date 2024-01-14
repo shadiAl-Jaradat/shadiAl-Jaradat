@@ -1,4 +1,4 @@
-### Hi There! 👋  <a href = "mailto: jaradatshadi1@gmail.com"><img align="right" src="https://img.icons8.com/color/48/secured-letter--v1.png" width="32"/>/a><a href="https://www.linkedin.com/in/shadi-al-jaradat/"><img align="right" src="https://img.icons8.com/color/48/linkedin.png" width="32"/></a>
+### Hi There! 👋  <a href = "mailto: jaradatshadi1@gmail.com"><img align="right" src="https://img.icons8.com/color/48/secured-letter--v1.png" width="32"/></a><a href="https://www.linkedin.com/in/shadi-al-jaradat/"><img align="right" src="https://img.icons8.com/color/48/linkedin.png" width="32"/></a>
 
 <br />
 
