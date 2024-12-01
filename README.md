@@ -6,6 +6,8 @@
   
 - 🧾 I worked at KayanHR as a Flutter developer [@KayanHRApp](https://apps.apple.com/jo/app/kayanhr/id1539212937?platform=iphone) Feb 2022 - Oct 2023
 
+- 👀 I'm working now on my Mobile app -> Work Wave (Very Soon ...)
+
 - 📚  I’m a Computer science graduate from PSUT
 
 - 💬  Ask me about topics about photography, cooking, movies, and coffee
