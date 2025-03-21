@@ -10,6 +10,13 @@
 
 ---------
 
+### 🚀 **Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,github,git,figma" />
+</p>
+
+---------
+
 
 - 🚀 I’m currently working at Nowa as a Flutter developer [@Nowa](https://www.nowa.dev/) Oct 2023 - Present
   
