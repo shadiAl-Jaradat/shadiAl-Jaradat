@@ -24,7 +24,7 @@
   
 - 🧾 I worked at KayanHR as a Flutter developer [@KayanHRApp](https://apps.apple.com/jo/app/kayanhr/id1539212937?platform=iphone) Feb 2022 - Oct 2023
 
-- 👀 I'm working now on my Mobile app -> "[RehabLex]@(https://www.rehablex.com/)" => on App store and Play store (Soon ...)
+- 👀 I'm working now on my Mobile app -> "[@RehabLex](https://www.rehablex.com/)" => on App store and Play store (Soon ...)
 
 - 📚 I’m a Computer science graduate from [@Princess Sumaya University for Technology](https://www.psut.edu.jo)
 
