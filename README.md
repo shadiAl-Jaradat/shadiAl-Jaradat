@@ -18,7 +18,9 @@
 ---------
 
 
-- 🚀 I’m currently working at Nowa as a Flutter developer [@Nowa](https://www.nowa.dev/) Oct 2023 - Present
+- 🚀 I’m currently working at Ard group as a Senior Flutter Developer [@Ard](https://solutions.ard.co/en) July 2025 - Present
+
+- working at Nowa as a Flutter developer [@Nowa](https://www.nowa.dev/) Oct 2023 - June 2025
   
 - 🧾 I worked at KayanHR as a Flutter developer [@KayanHRApp](https://apps.apple.com/jo/app/kayanhr/id1539212937?platform=iphone) Feb 2022 - Oct 2023
 
