@@ -20,13 +20,14 @@
 
 - 🚀 I’m currently working at Ard group as a Senior Flutter Developer [@Ard](https://solutions.ard.co/en) July 2025 - Present
 
-- working at Nowa as a Flutter developer [@Nowa](https://www.nowa.dev/) Oct 2023 - June 2025
+- 🧾 I worked at at Nowa as a Flutter developer [@Nowa](https://www.nowa.dev/) Oct 2023 - June 2025
   
 - 🧾 I worked at KayanHR as a Flutter developer [@KayanHRApp](https://apps.apple.com/jo/app/kayanhr/id1539212937?platform=iphone) Feb 2022 - Oct 2023
 
-- 👀 I'm working now on my Mobile app -> "RehabLEx" => on App store and Play store (Soon ...)
+- 👀 I'm working now on my Mobile app -> "[RehabLex]@(https://www.rehablex.com/)" => on App store and Play store (Soon ...)
 
-- 📚  I’m a Computer science graduate from PSUT
+- 📚 I’m a Computer science graduate from [@Princess Sumaya University for Technology](https://www.psut.edu.jo)
+
 
 - 💬  Ask me about topics about photography, cooking, movies, and coffee
 
